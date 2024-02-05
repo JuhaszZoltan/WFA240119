@@ -6,6 +6,8 @@ namespace WFA240119
     {
         public MainForm()
         {
+            //comment for no reason
+
             InitializeComponent();
             this.Load += FillTypesCbx;
             this.Load += FillRentDgv;
